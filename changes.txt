@@ -32,3 +32,4 @@
 "Commit The numeric accepts." 
 "Commit The tribe deserves." 
 "Commit The swanling robs." 
+"Commit The tattler alerts." 
